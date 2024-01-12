@@ -204,13 +204,13 @@
 }
 .bottomleft{
     position: absolute;
-    bottom: 120px;
-    left: 100px;
+    bottom: 100px;
+    left: 70px;
 }
 .bottomright{
     position: absolute;
-    bottom: 120px;
-    right: 100px;
+    bottom: 100px;
+    right: 70px;
 }
 .centeredbottom{
     position: absolute;
@@ -254,3 +254,4 @@
 .eins{
     border: solid green 20px;
 }
+
