@@ -1,0 +1,23 @@
+.NamederKlasse {
+    border-width: gewünschteBreite;
+    background-color: gewünschteFarbe;
+    border-style: gewünscherStil;
+    border-radius: gewünschteEckenabrundung;
+}
+.zwei{
+    background-color: aqua;
+    color: darkmagenta;
+    border: double 6px darkblue;
+}
+.null{
+    border: solid 2px black;
+}
+.drei{
+    border: dotted 15px rgb(208, 103, 145);
+    background-color: rgb(234, 169, 6);
+    color: darkmagenta;
+}
+.ecken{
+    border-radius: 8px;
+}
+.stars{}

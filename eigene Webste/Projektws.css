@@ -1,0 +1,137 @@
+.absolute{
+    position: absolute;
+}
+.fixed{
+    position: fixed;
+}
+.überschrift{
+    color: deeppink;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(187, 186, 186);
+}
+.groß{
+    font-weight: bold;
+    font-size: 30px;
+}
+.align{
+    text-align: center;
+}
+.titel1{
+    background-color: rgb(187, 186, 186);
+    padding-top: 20px;
+}
+.bild{
+    margin-inline:auto;
+    background-color: rgb(205, 202, 202);
+}
+.grid{
+    display: grid;
+    border: 1px solid var(--bx-red);
+    grid-template: min-content;
+}
+.grundlagen{
+    text-align: left;
+    background-color: grey;
+    display: block;
+}
+.tabelle1{
+    border-width: 6px;
+    border-color: black;
+    border-radius: 5px;
+}
+.grundlagen2{
+    padding-inline: 100px;
+    text-align: left;
+    background-color: grey;
+    display: block;
+    font-size: larger;
+}
+
+.textlinks{
+    text-align: left;
+}
+
+.pfeile{
+    color: rgb(249, 87, 173);
+    font-weight: bolder;
+    font-size: larger;
+}
+.rosa{
+    color: hotpink;
+}
+.weiß{
+    color: ghostwhite;
+}
+.filler{
+    color: grey;
+    background-color: grey;
+}
+.fillerweiß{
+    color: white;
+    background-color: white;
+}
+.g2{
+    background-color: grey;
+    border: color 12px deeppink;
+}
+.breitpink{
+    color: deeppink;
+    font-size: x-large;
+    font-weight: bold;
+}
+.lb{
+    font-size: x-large;
+    color: deeppink;
+    font-weight: bolder;
+}
+.lz{
+    font-weight: bolder;
+    color: black;
+}
+.tabelleliste{
+    background-color: gray;
+}
+.verschieben{
+    margin-right: auto;
+    margin-left: auto;
+}
+.tabellegrau{
+    background-color: grey;
+    color: rgb(238, 128, 186);
+    font-size: larger;
+    font-weight: bold;
+}
+.fillerüberschrift{
+    color: rgb(187, 186, 186);
+}
+.überschriftgrey{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgb(187, 186, 186);
+}
+.centered{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.hintergrundblack{
+    background-color: black;
+}
+.groeser{
+    font-size: 50px;
+    font-weight: bolder;
+}
+.nochgroeser{
+    font-size: 100px;
+    font-weight: bolder;
+}
+.paddy{
+    margin-top: 30px;
+}
