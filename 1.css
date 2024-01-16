@@ -214,7 +214,7 @@
 }
 .centeredbottom{
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -264,4 +264,18 @@
     position: absolute;
     bottom: 250px;
     right: 50%;
+}
+
+
+.centeredbottom2{
+    position: absolute;
+    bottom: 200px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.centered3{
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }

@@ -9,7 +9,7 @@ button.addEventListener ("click", BasicsA)
 
 function BasicsC(){
     const QuizbasicsLC = document.getElementById("QuizbasicsLC");
-    QuizbasicsLC.innerHTML= "Das ist richtig!"
+    QuizbasicsLC.innerHTML= "Das ist richtig!  <br>           <a href=quizfinish.html> ~weiter~ </a>    "
 }
 
 const QuizbasiC=document.getElementById("QuizbasiC");
