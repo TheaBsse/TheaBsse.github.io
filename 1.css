@@ -204,12 +204,12 @@
 }
 .bottomleft{
     position: absolute;
-    bottom: 120px;
+    bottom: 250px;
     left: 100px;
 }
 .bottomright{
     position: absolute;
-    bottom: 120px;
+    bottom: 250px;
     right: 100px;
 }
 .centeredbottom{
@@ -220,7 +220,7 @@
 }
 .topleft{
     position: absolute;
-    top: 8px;
+    top: 70px;
     left: 16px;
 }
 .textarea{
@@ -259,4 +259,9 @@
     top: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.bottommit{
+    position: absolute;
+    bottom: 250px;
+    right: 50%;
 }
