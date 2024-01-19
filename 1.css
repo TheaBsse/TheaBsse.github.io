@@ -68,8 +68,8 @@
     background-color: grey;
 }
 .fillerweiß{
-    color: white;
-    background-color: white;
+    color: rgba(255, 255, 255, 0);
+    background-color: rgba(255, 255, 255, 0);
 }
 .g2{
     background-color: grey;
@@ -278,4 +278,43 @@
     top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.body{
+    background: url(https://d2gg9evh47fn9z.cloudfront.net/1600px_COLOURBOX2712347.jpg);
+}
+.schwarz{
+    color: black;
+}
+.bgrau{
+    color: rgb(107, 107, 107);
+}
+.blackback{
+    background-color: black;
+}
+.bodyübersicht{
+    background: url(https://th.bing.com/th/id/OIP.tlwdp4oVZbICzjJugzb6GAHaF6?w=1160&h=927&rs=1&pid=ImgDetMain) no-repeat;
+    background-size: cover;
+}
+.kag{
+    font-size: large;
+}
+.breitweis{
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+}
+.bodyauf{
+    background: url(https://www.publicdomainpictures.net/pictures/510000/velka/abstrakt-textur-hintergrund-kunst-1684610519fuk.jpg) no-repeat;
+    background-size: cover;
+}
+.invi{
+    style: none;
+}
+.bodyquiz{
+    background: url(https://media.istockphoto.com/illustrations/colorful-grunge-texture-illustration-id184916236?k=6&m=184916236&s=612x612&w=0&h=BuHDQkEpsbNTV_aW3wYAdWj__QQcext42dDbsv33Po4=) no-repeat;
+    background-size: cover;
+}
+.bodyall{
+    background: url(https://i.pinimg.com/originals/8f/fd/a2/8ffda293f2f509e304e1eaa1fe68af3b.jpg) no-repeat;
+    background-size: cover;
 }
